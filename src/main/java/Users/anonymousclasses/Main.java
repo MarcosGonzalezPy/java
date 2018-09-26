@@ -1,4 +1,4 @@
-package anonymousclasses;
+package Users.anonymousclasses;
 
 public class Main {
 

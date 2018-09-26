@@ -1,4 +1,4 @@
-package interfaces;
+package Users.interfaces;
 
 public interface PruebaInterface {
 

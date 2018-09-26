@@ -1,4 +1,4 @@
-package enumexample;
+package Users.enumexample;
 
 public class PruebaEnum {
 	public enum Demarcacion{PORTERO, DEFENSA, CENTROCAMPISTA, DELANTERO}
